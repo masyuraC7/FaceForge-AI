@@ -1,0 +1,5 @@
+{
+  "name": "FaceForge-AI",
+  "description": "Advanced face classification dashboard with batch processing, real-time history, and automated results export.",
+  "requestFramePermissions": []
+}
